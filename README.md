@@ -1,9 +1,6 @@
 # ab-testing-retention-project
 # A/B Test: Reducing Customer Churn with Targeted Discounts
 
-![Project Screenshot](./reports/executive_onepager_final.pdf)  
-*One-page executive summary with insights and scenario analysis.*
-
 ---
 
 ## Project Overview
@@ -28,15 +25,23 @@ The analysis demonstrates an **end-to-end data science workflow**: dataset simul
 ---
 
 ## Project Structure
+
 ab-testing-retention-project/
+
 ├── data/
+
 │ └── ab_test_retention_dataset.csv # Simulated dataset
+
 ├── notebooks/
+
 │ └── 01_ab_test_analysis.ipynb # Full analysis and PDF generation
 ├── reports/
+
 │ └── executive_onepager_final.pdf # Consulting-grade executive summary
 ├── venv/ # Virtual environment (ignored in Git)
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 ---
@@ -89,6 +94,5 @@ This project is for portfolio purposes only and is not intended for commercial u
 ---
 
 Presenter
-
-Oluwasegun Raphael
-Data Analyst
+# Oluwasegun Raphael
+** Data Analyst
