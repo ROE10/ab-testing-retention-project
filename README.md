@@ -35,9 +35,11 @@ ab-testing-retention-project/
 ├── notebooks/
 
 │ └── 01_ab_test_analysis.ipynb # Full analysis and PDF generation
+
 ├── reports/
 
-│ └── executive_onepager_final.pdf # Consulting-grade executive summary
+│ └── executive_onepager_final.pdf # Consulting-grade executive summary,
+
 ├── venv/ # Virtual environment (ignored in Git)
 
 ├── requirements.txt # Python dependencies
@@ -93,6 +95,6 @@ License
 This project is for portfolio purposes only and is not intended for commercial use.
 ---
 
-Presenter
-# Oluwasegun Raphael
-** Data Analyst
+Authur
+Oluwasegun Raphael
+Data Analyst
