@@ -3,7 +3,7 @@
 
 ---
 
-## Project Overview
+## 📌 Project Overview
 This project analyzes a subscription-based e-commerce platform to determine whether a **15% discount** can reduce customer churn while maximizing revenue.  
 
 The project focuses on:  
@@ -16,7 +16,7 @@ The analysis demonstrates an **end-to-end data science workflow**: dataset simul
 
 ---
 
-## Key Objectives
+## 🎯 Key Objectives
 - Determine if offering a **15% discount reduces overall churn**  
 - Measure **net revenue impact**  
 - Identify which **customer segments (High, Mid, Low CLV)** benefit most  
@@ -24,7 +24,7 @@ The analysis demonstrates an **end-to-end data science workflow**: dataset simul
 
 ---
 
-## Project Structure
+## 📁 Repository Structure
 
 ab-testing-retention-project/
 
@@ -48,7 +48,7 @@ ab-testing-retention-project/
 
 ---
 
-## Methodology
+## 🧪 Methodology
 1. **Data Preparation:** Simulated 20,000 customers with tenure, engagement, monthly spend, net revenue, churn, and customer segment (High/Mid/Low CLV).  
 2. **A/B Testing:** Control (no discount) vs Treatment (15% discount).  
 3. **Exploratory Analysis:** Churn trends, revenue distribution, segment-level insights.  
@@ -59,7 +59,7 @@ ab-testing-retention-project/
 
 ---
 
-## Key Insights
+## 🔍 Key Insights
 - **Overall churn reduction:** 12.20% → 10.27%  
 - **High-CLV customers:** Churn reduced from 8.79% → 5.93%  
 - **Mid-CLV customers:** Moderate retention improvement  
@@ -83,7 +83,7 @@ ab-testing-retention-project/
 
 ---
 
-## Tools & Technologies
+## 🛠 Tools Stack
 - **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Environment:** Jupyter Notebook  
 - **Output:** Charts and PDF reports  
@@ -93,8 +93,12 @@ ab-testing-retention-project/
 License
 
 This project is for portfolio purposes only and is not intended for commercial use.
+
 ---
 
-Authur
-Oluwasegun Raphael
-Data Analyst
+## 👤 Author
+
+**Oluwasegun Raphael**  
+Data Analyst & Consultant
+
+---
