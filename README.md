@@ -1,5 +1,13 @@
-# ab-testing-retention-project
+
 # 🔀 A/B Test: Reducing Customer Churn with Targeted Discounts
+
+![Python](https://img.shields.io/badge/Python-Analysis-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Prep-lightgrey?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Math%20Lib-orange?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red?logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-purple?logo=seaborn)
+![Environment](https://img.shields.io/badge/Jupyter%20Notebook-Interactive-orange?logo=jupyter)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ---
 
